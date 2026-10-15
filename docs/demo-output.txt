@@ -1,0 +1,6 @@
+After invalidation: 1 tracked, 0 available
+Replacement admitted while full: false
+Obsolete completions published: 0
+Cached preview: fresh
+Excess while both entries are pinned: 1
+After unpinning: 1 cached, 1 available work slots
