@@ -4,8 +4,7 @@ Track in-flight work and discard obsolete results without releasing capacity
 while old work is still running. This Rust library provides bookkeeping for a
 host-owned executor and a small cache; it does not start threads or schedule jobs.
 
-**Status:** local functional prototype. Publication and licensing are pending.
-No external crate dependencies. Tested with Rust 1.97.1 on Linux; no minimum
+**Status:** experimental release. GPL-3.0-only. No external crate dependencies. Tested with Rust 1.97.1 on Linux; no minimum
 supported Rust version or cross-platform support claim has been established.
 
 ## Example
@@ -96,6 +95,6 @@ exists while this remains a local draft.
 
 ## Licensing
 
-Licensing is **not decided**. This local draft does not grant a reuse license
-and is not presented as an open-source release. See
-[LICENSING.md](LICENSING.md). Publication is on hold.
+Copyright (C) 2026 gutoqualidade. Licensed under GPL-3.0-only; see the `LICENSE` and `LICENSING.md` files for the
+full terms and a plain-language summary of the scope. This license requires corresponding
+source when distributing covered versions; private use can remain private.

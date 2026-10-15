@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0-only
 //! Executor-independent bookkeeping for bounded derived-data workers.
 //!
 //! The host owns the executor and polls handles. Invalidating results never frees

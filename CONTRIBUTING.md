@@ -1,7 +1,7 @@
 # Development
 
-This repository is being prepared locally. Licensing and public collaboration
-terms remain unresolved; it is not accepting public contributions yet.
+This repository is being prepared locally. The license is GPL-3.0-only. It is accepting contributions under the terms in
+[LICENSE](LICENSE); no public support commitment is made.
 
 For local changes:
 

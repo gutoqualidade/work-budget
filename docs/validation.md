@@ -29,7 +29,7 @@ isolated input manifest are retained in the local preparation review directory.
 Ubuntu runner. Checkout is pinned to a commit and its token has read-only content
 permission. An Actions dependency-update configuration is prepared.
 
-Neither remote CI nor Dependabot has run: this project has not been published.
-There is no established public maintenance history. A local initial commit is a
-baseline, not evidence of sustained maintenance. No release, benchmark, security
+At the time of the local validation record, remote CI and Dependabot had not run.
+The new repository will have no established maintenance history. Its initial
+commit is a baseline, not evidence of sustained maintenance. No release, benchmark, security
 audit, production deployment or long-running stability claim is made.

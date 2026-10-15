@@ -14,5 +14,5 @@ and its three existing tests were preserved. Standalone packaging, a public API
 wrapper, documentation, a demo and consumer integration tests were added.
 
 The original application files were not modified. This records source origin,
-not a license grant or an independent legal authorship audit. Licensing is
-pending; see [LICENSING.md](../LICENSING.md).
+not an independent legal authorship audit. Licensing is stated in
+[LICENSING.md](../LICENSING.md).

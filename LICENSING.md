@@ -1,18 +1,11 @@
-# Licensing decision pending
+# Licensing
 
-This is a local preparation draft. No reuse license is granted here. Do not
-publish it or describe it as an open-source release until licensing is resolved.
+This project is licensed under the GNU General Public License, version 3 only
+(GPL-3.0-only). See [`LICENSE`](LICENSE) for the complete text.
 
-The requested condition is disclosure of covered source changes even for
-strictly private use. Neither GPLv3 nor AGPLv3 guarantees that condition.
-Earlier MIT and GPL selections were superseded by the decision to defer
-publication until a suitable licensing arrangement is evaluated.
-
-Any custom terms need legal review, a clear definition of the covered work and
-triggers, and a compatibility assessment before adoption. This note is a record
-of an unresolved requirement, not custom license text.
-
-References:
-
-- [GNU FAQ: private modifications](https://www.gnu.org/licenses/gpl-faq.en.html#GPLRequireSourcePostedPublic)
-- [GNU: network source provision under AGPL](https://www.gnu.org/licenses/why-affero-gpl.html)
+GPLv3 requires corresponding source when covered software or modified versions
+are conveyed under its terms. It allows private use and modification without
+publishing those changes. If a covered modified version is used only inside an
+organization and not conveyed, the license does not require it to disclose that
+version. This is the user's selected standard license; it does not implement a
+private-use disclosure condition.
