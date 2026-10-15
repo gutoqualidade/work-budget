@@ -30,9 +30,11 @@ assert_eq!(jobs.poll(|result| Some(*result)), vec![("preview", "new result")]);
 
 ## Run locally
 
-From this checkout, with Rust 1.97.1, Cargo, rustfmt, Clippy and Bash available:
+Clone the repository with Git. With Rust 1.97.1, Cargo, rustfmt, Clippy and Bash available:
 
 ```sh
+git clone https://github.com/gutoqualidade/work-budget.git
+cd work-budget
 cargo run --offline --locked --example lifecycle
 bash scripts/check.sh
 ```
@@ -41,7 +43,7 @@ The demo prints the slot count, the discarded obsolete completion and the
 published fresh value. Its complete expected output is in
 [docs/demo-output.txt](docs/demo-output.txt). The check script also compares the
 actual demo output with that file. It needs no network after toolchain setup.
-There is no published package or remote installation URL yet.
+The crate is not published on crates.io.
 
 ## Behavior
 
